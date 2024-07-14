@@ -21,3 +21,5 @@ You can use any motor you want.
 
 See the Circuit Diagram Below:
 # Circuit Diagram
+![Circuit Diagram](https://github.com/user-attachments/assets/22b9eeaa-f1e2-4b52-adf2-bf9626fbdafe)
+

@@ -21,5 +21,5 @@ You can use any motor you want.
 
 See the Circuit Diagram Below:
 # Circuit Diagram
-![Circuit Diagram]([CircuitDiagram.png])
+![Circuit Diagram]([https://github.com/nameismat/Bluetooth-RC-Sumo-Robot/blob/main/CircuitDiagram.png])
 

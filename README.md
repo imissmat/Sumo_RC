@@ -21,5 +21,5 @@ You can use any motor you want.
 
 See the Circuit Diagram Below:
 # Circuit Diagram
-![remote-shell](Images/CircuitDiagram.png)
+![remote-shell](CircuitDiagram.png)
 

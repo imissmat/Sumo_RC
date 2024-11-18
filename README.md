@@ -1,4 +1,4 @@
-# Bluetooth-RC-Sumo-Robot
+# Sumo RC competitive 
 ### Size
 15 * 15 cm
 
